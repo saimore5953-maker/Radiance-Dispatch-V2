@@ -1,0 +1,7 @@
+{
+  "name": "RADIANCE DISPATCH V2",
+  "description": "An offline-first industrial dispatch scanning application with on-device OCR, live part-wise grouping, and professional professional Excel exports.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
